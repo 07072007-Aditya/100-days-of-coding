@@ -1,1 +1,2 @@
-# 100-days-of-coding
+All the question are solved from the following website:
+https://maitysoumik.github.io/basic-coding-with-c/
