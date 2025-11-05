@@ -13,7 +13,7 @@ int main() {
     printf("Enter a number: ");
     scanf("%d", &num);
 
-    temp = num; // store original number
+    temp = num; 
 
    
     while (temp > 0) {
@@ -31,3 +31,4 @@ int main() {
     return 0;
 
 }
+
